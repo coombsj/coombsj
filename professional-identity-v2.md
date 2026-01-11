@@ -2,13 +2,13 @@
 
 ## Bio (standard length, internal-ready)
 
-Coombs, Jonathan is a **Senior Engineering Manager** at Cambia Health Solutions, leading the **PEDEX (Platform Engineering Developer Experience)** Platform Services Squad—a unified 8-member team (transitioning to 5 in Q4 2025) formed through the successful merger of Team Gaea and Team Hermes. He drives platform engineering excellence, developer experience innovation, and organizational intelligence initiatives across the engineering organization. Recognized for strategic team formation, AI-assisted development leadership, and enterprise-scale system integration, Jonathan has successfully transferred ownership of **107 repositories** across multiple epics and pioneered data-driven team capability frameworks for ephemeral squad staffing. He convenes and actively contributes to the Developer Experience Community of Practice, advancing SDLC practices, automation workflows, and cross-team collaboration. Known for building production-ready automation tools (including a comprehensive daily management CLI with enterprise integration), documenting proven methodologies (achieving 5/5 success rate on PEDEX Confluence cleanup initiatives), and delivering rapid, decisive solutions to complex organizational challenges, Jonathan combines hands-on technical depth with strategic organizational design. He coordinates internship and early-career interview activities (e.g., MECOP), aligning talent pipelines with organizational needs while managing performance, career development, and team transitions. Based in Washington, he works remotely.
+Coombs, Jonathan is a **Senior Engineering Manager** at Cambia Health Solutions, leading **8 engineers distributed across ephemeral squads** while managing the consolidated **PEDEX (Platform Engineering Developer Experience) Platform Services** backlog—services previously managed by three distinct engineering teams. He drives platform engineering excellence, developer experience innovation, and organizational intelligence initiatives across the engineering organization. Recognized for strategic team formation, AI-assisted development leadership, and enterprise-scale system integration, Jonathan has successfully transferred ownership of **107 repositories** across multiple epics and pioneered data-driven team capability frameworks for ephemeral squad staffing. He convenes and actively contributes to the Developer Experience Community of Practice, advancing SDLC practices, automation workflows, and cross-team collaboration. Known for building production-ready automation tools (including a comprehensive daily management CLI with enterprise integration), documenting proven methodologies (achieving 5/5 success rate on PEDEX Confluence cleanup initiatives), and delivering rapid, decisive solutions to complex organizational challenges, Jonathan combines hands-on technical depth with strategic organizational design. He coordinates internship and early-career interview activities (e.g., MECOP), aligning talent pipelines with organizational needs while managing performance, career development, and team transitions. Based in Washington, he works remotely.
 
 ---
 
 ## Short version (≈75 words)
 
-Coombs, Jonathan is a Senior Engineering Manager at Cambia Health Solutions, leading the PEDEX Platform Services Squad. He specializes in platform engineering, developer experience innovation, and AI-assisted development workflows. Known for strategic team formation (successfully merging two engineering teams), enterprise-scale automation (107-repository ownership transfer), and organizational intelligence (data-driven capability frameworks), Jonathan builds production-ready tools, documents proven methodologies, and drives measurable impact. He leads the Developer Experience Community of Practice and works remotely from Washington.
+Coombs, Jonathan is a Senior Engineering Manager at Cambia Health Solutions, leading 8 engineers distributed across ephemeral squads while managing the consolidated PEDEX Platform Services backlog. He specializes in platform engineering, developer experience innovation, and AI-assisted development workflows. Known for strategic service consolidation (integrating three teams' backlogs into unified platform services), enterprise-scale automation (107-repository ownership transfer), and organizational intelligence (data-driven capability frameworks for ephemeral squad staffing), Jonathan builds production-ready tools, documents proven methodologies, and drives measurable impact. He leads the Developer Experience Community of Practice and works remotely from Washington.
 
 ---
 
@@ -18,7 +18,7 @@ Coombs, Jonathan is a Senior Engineering Manager at Cambia Health Solutions, lea
 Senior Engineering Manager | Platform Engineering & Developer Experience (PEDEX) | AI-Assisted Development Pioneer | Enterprise Automation & Integration | Remote Leadership | Cambia Health
 
 ### 🔹 "About" (First-person)
-I'm a senior engineering manager specializing in platform engineering, developer experience innovation, and AI-assisted development at scale. I lead the PEDEX Platform Services Squad—a unified team I formed through the strategic merger of two distinct engineering groups—and drive initiatives that transform how engineers work, from enterprise automation to organizational intelligence systems.
+I'm a senior engineering manager specializing in platform engineering, developer experience innovation, and AI-assisted development at scale. I lead **8 engineers distributed across ephemeral squads** while managing the consolidated **PEDEX Platform Services backlog**—integrating services from three previously separate engineering teams into a unified platform services portfolio. I drive initiatives that transform how engineers work, from enterprise automation to organizational intelligence systems for dynamic team formation.
 
 Colleagues know me for **building production-ready solutions**: I developed a comprehensive daily management CLI with enterprise integration, transferred ownership of 107 repositories using AI-assisted automation, and created a Team Capabilities Framework that transforms ad-hoc staffing into data-driven strategic optimization. I've achieved a documented 5/5 success rate on major organizational cleanup initiatives using proven methodologies.
 
@@ -36,7 +36,7 @@ Working remotely from Washington, I value **systems thinking, technical excellen
 
 ## Public Bio (Third-person, extended)
 
-Jonathan Coombs is a Senior Engineering Manager at Cambia Health Solutions, where he leads the PEDEX (Platform Engineering Developer Experience) Platform Services Squad. A recognized innovator in AI-assisted development and enterprise automation, Jonathan successfully merged Team Gaea and Team Hermes into a unified platform engineering team while managing the transfer of 107 repositories across multiple organizational consolidation initiatives.
+Jonathan Coombs is a Senior Engineering Manager at Cambia Health Solutions, where he leads 8 engineers distributed across ephemeral squads while managing the consolidated PEDEX (Platform Engineering Developer Experience) Platform Services backlog. A recognized innovator in AI-assisted development and enterprise automation, Jonathan successfully consolidated services from three distinct engineering teams into a unified platform services portfolio while managing the transfer of 107 repositories across multiple organizational consolidation initiatives.
 
 His technical leadership combines strategic organizational design with hands-on implementation. Notable achievements include developing a production-ready daily management CLI with enterprise integration, creating a comprehensive Team Capabilities Framework for data-driven staffing optimization, and establishing proven methodologies that achieved a perfect 5/5 success record on major cleanup initiatives.
 
@@ -53,9 +53,10 @@ Jonathan works remotely from Washington and is known for systems thinking, techn
 ### Senior Engineering Manager, Platform Engineering Developer Experience (PEDEX) — Cambia Health Solutions
 *Remote, Washington*
 
-**Team Leadership & Formation**
-- Lead PEDEX Platform Services Squad: unified 8-member team formed through successful strategic merger of Team Gaea (identity/authentication focus) and Team Hermes (healthcare data services)
-- Manage Q4 2025 transition to 5-member squad with new contractor onboarding
+**Team Leadership & Organizational Design**
+- Lead 8 engineers distributed across ephemeral squads, enabling flexible team formation based on initiative needs
+- Manage consolidated PEDEX Platform Services backlog: integrated services from three previously distinct engineering teams (identity/authentication, healthcare data services, and platform infrastructure)
+- Pioneered distributed team management model supporting dynamic squad staffing while maintaining consistent performance management and career development
 - Conduct performance management, career development conversations, and early-career talent mentorship (MECOP program)
 
 **Strategic Initiatives & Organizational Intelligence**
@@ -116,11 +117,12 @@ Jonathan works remotely from Washington and is known for systems thinking, techn
 **Impact**: Eliminated all content duplication, established scalable knowledge management patterns
 **Organizational Value**: Proven framework ready for enterprise-wide scaling
 
-### Squad Formation & Team Merger (September 2025)
-**Leadership**: Successfully merged Team Gaea (identity/auth) and Team Hermes (healthcare data) into unified PEDEX Platform Services Squad
-**Scale**: Integrated 8 engineers with distinct technical focuses into cohesive platform engineering team
-**Change Management**: Managed transition through Q4 2025 (8→5 members) with new contractor onboarding
-**Impact**: Unified platform engineering capability; eliminated silos; improved cross-functional collaboration
+### Platform Services Consolidation & Distributed Team Leadership (2025)
+**Organizational Innovation**: Consolidated services from three distinct engineering teams into unified PEDEX Platform Services backlog while distributing 8 engineers across ephemeral squads
+**Leadership Model**: Pioneer distributed team management approach where engineers report directly but are staffed dynamically across initiatives based on capability matching and business priorities
+**Backlog Integration**: Successfully integrated identity/authentication services, healthcare data services, and platform infrastructure into cohesive platform services portfolio
+**Scale**: Managing 8 direct reports across multiple concurrent ephemeral squads with clear accountability and performance management
+**Impact**: Eliminated organizational silos while maintaining flexibility; enabled rapid squad formation for strategic initiatives; improved cross-functional collaboration and resource optimization
 
 ### MCP Enterprise Integration Infrastructure (2025)
 **Achievement**: Implemented operational MCP servers for Jira and Confluence with secure keychain authentication
